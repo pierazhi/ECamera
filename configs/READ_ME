@@ -1,0 +1,1 @@
+Qui ci sono le varie configs dei vari datasets nel caso tu voglia provare a runnare il main. Ti basta cambiare la directory dove è present l'input (cerca data e poi datadir nel config e modificalo secondo le tue preferenze di percorso). Puoi anche modificare dove sarà l'output, sempre nella sezione data. 
